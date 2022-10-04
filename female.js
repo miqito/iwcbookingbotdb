@@ -731,4 +731,58 @@ module.exports = [
         img: "https://i.imgur.com/Hon1rbB.png",
         id: 121
     },
+    {
+        firstName: "HARUNA",
+        secondName: "NEKO",
+        img: "https://i.imgur.com/0UNxhLU.png",
+        id: 122
+    },
+    {
+        firstName: "KAYA",
+        secondName: "TORIBAMI",
+        img: "https://i.imgur.com/O8IHoRT.png",
+        id: 123
+    },
+    {
+        firstName: "MAHIRO",
+        secondName: "KIRYU",
+        img: "https://i.imgur.com/howPhwL.png",
+        id: 124
+    },
+    {
+        firstName: "MOKA",
+        secondName: "MIYAMOTO",
+        img: "https://i.imgur.com/EzlllU5.png",
+        id: 125
+    },
+    {
+        firstName: "POM",
+        secondName: "HARAJUKU",
+        img: "https://i.imgur.com/VB9tCYq.png",
+        id: 126
+    },
+    {
+        firstName: "",
+        secondName: "RAKU",
+        img: "https://i.imgur.com/n3StcLk.png",
+        id: 127
+    },
+    {
+        firstName: "RIKA",
+        secondName: "TATSUMI",
+        img: "https://i.imgur.com/y7ZO5e9.png",
+        id: 128
+    },
+    {
+        firstName: "SAYURI",
+        secondName: "NAMBA",
+        img: "https://i.imgur.com/TwSxd9X.png",
+        id: 129
+    },
+    {
+        firstName: "",
+        secondName: "SUZUME",
+        img: "https://i.imgur.com/fZysnha.png",
+        id: 130
+    },
     ]
