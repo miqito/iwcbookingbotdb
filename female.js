@@ -785,4 +785,22 @@ module.exports = [
         img: "https://i.imgur.com/fZysnha.png",
         id: 130
     },
+    {
+        firstName: "MAX",
+        secondName: "THE IMPALER",
+        img: "https://i.imgur.com/0nNKgjl.png",
+        id: 131
+    },
+    {
+        firstName: "STEPHANIE",
+        secondName: "VAQUER",
+        img: "https://i.imgur.com/a27PCMz.png",
+        id: 132
+    },
+    {
+        firstName: "KIDD",
+        secondName: "BANDIT",
+        img: "https://i.imgur.com/IOAGYvj.png",
+        id: 133
+    },
     ]
