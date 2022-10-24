@@ -1067,5 +1067,47 @@ module.exports = [
         img: "https://i.imgur.com/vzhlOuV.png",
         id: 177
     },
+    {
+        firstName: "EL HIJO",
+        secondName: "DEL VIKINGO",
+        img: "https://i.imgur.com/n8Ci5OG.png",
+        id: 178
+    },
+    {
+        firstName: "LAREDO",
+        secondName: "KID",
+        img: "https://i.imgur.com/Zd0wtDI.png",
+        id: 179
+    },
+    {
+        firstName: "",
+        secondName: "MÍSTICO",
+        img: "https://i.imgur.com/82PsgZC.png",
+        id: 180
+    },
+    {
+        firstName: "",
+        secondName: "SERPENTICO",
+        img: "https://i.imgur.com/kPv1mWn.png",
+        id: 181
+    },
+    {
+        firstName: "",
+        secondName: "YOSHIHIKO",
+        img: "https://i.imgur.com/T8Nyx3f.png",
+        id: 182
+    },
+    {
+        firstName: "MAX",
+        secondName: "THE IMPALER",
+        img: "https://i.imgur.com/fZysnha.png",
+        id: 183
+    },
+    {
+        firstName: "KIDD",
+        secondName: "BANDIT",
+        img: "https://i.imgur.com/IOAGYvj.png",
+        id: 184
+    },
     ]
     
