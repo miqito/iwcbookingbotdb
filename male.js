@@ -1008,7 +1008,7 @@ module.exports = [
         id: 167
     },
     {
-        firstName: "AKEX",
+        firstName: "ALEX",
         secondName: "SHELLEY",
         img: "https://i.imgur.com/7p9l2fn.png",
         id: 168
