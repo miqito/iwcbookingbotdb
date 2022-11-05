@@ -1100,7 +1100,7 @@ module.exports = [
     {
         firstName: "MAX",
         secondName: "THE IMPALER",
-        img: "https://i.imgur.com/fZysnha.png",
+        img: "https://i.imgur.com/0nNKgjl.png",
         id: 183
     },
     {
