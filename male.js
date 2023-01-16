@@ -127,7 +127,7 @@ module.exports = [
     },
     { 
         firstName: "PENTA",
-        secondName: "OSCURO",
+        secondName: "EL ZERO MIEDO",
         img: "https://i.imgur.com/zcV7lvP.png",
         id: 21
     },
@@ -362,7 +362,7 @@ module.exports = [
     {
         firstName: "DOMINIK",
         secondName: "MYSTERIO",
-        img: "https://i.imgur.com/8JuHFQ4.png",
+        img: "https://i.imgur.com/U0Nv8WZ.png",
         id: 60
     },
     {
@@ -1026,8 +1026,8 @@ module.exports = [
         id: 170
     },
     {
-        firstName: "",
-        secondName: "JONAH",
+        firstName: "BRONSON",
+        secondName: "REED",
         img: "https://i.imgur.com/M6MK6bL.png",
         id: 171
     },
