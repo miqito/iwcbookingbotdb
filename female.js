@@ -134,7 +134,7 @@ module.exports = [
     {
         firstName: "SAKI",
         secondName: "KASHIMA",
-        img: "https://i.imgur.com/FyGZ7MC.png",
+        img: "https://i.imgur.com/yhIJHx3.png",
         id: 22
     },
     {
@@ -157,7 +157,7 @@ module.exports = [
     },
     {
         firstName: "TAY",
-        secondName: "CONTI",
+        secondName: "MELO",
         img: "https://i.imgur.com/WoTlAwR.png",
         id: 26
     },
@@ -320,7 +320,7 @@ module.exports = [
     {
         firstName: "AMI",
         secondName: "SOUREI",
-        img: "https://i.imgur.com/XUHk9LK.png",
+        img: "https://i.imgur.com/up4E8Iw.png",
         id: 53
     },
     {
@@ -516,9 +516,9 @@ module.exports = [
         id: 85
     },
     {
-        firstName: "SASHA",
-        secondName: "BANKS",
-        img: "https://i.imgur.com/h6XOMAe.png",
+        firstName: "MERCEDES",
+        secondName: "MONÉ",
+        img: "https://i.imgur.com/oJvq7sq.png",
         id: 86
     },
     {
@@ -692,7 +692,7 @@ module.exports = [
     {
         firstName: "NATSUKO",
         secondName: "TORA",
-        img: "https://i.imgur.com/gmG9uxv.png",
+        img: "https://i.imgur.com/mkt0gKt.png",
         id: 115
     },
     {
@@ -710,7 +710,7 @@ module.exports = [
     {
         firstName: "",
         secondName: "RUAKA",
-        img: "https://i.imgur.com/MTv8b6B.png",
+        img: "https://i.imgur.com/1DocKi1.png",
         id: 118
     },
     {
