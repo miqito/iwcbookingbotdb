@@ -246,9 +246,9 @@ module.exports = [
         id: 40
     },
     {
-        firstName: "JAY",
+        firstName: "MARK",
         secondName: "BRISCOE",
-        img: "https://i.imgur.com/6xeibeC.png",
+        img: "https://i.imgur.com/JbRJJSM.png",
         id: 41
     },
     {
