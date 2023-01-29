@@ -247,7 +247,7 @@ module.exports = [
     },
     {
         firstName: "",
-        secondName: "DOUDROP",
+        secondName: "PIPER NIVEN",
         img: "https://i.imgur.com/u7wR0do.png",
         id: 41
     },
